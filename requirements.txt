@@ -1,0 +1,4 @@
+boto3
+botocore
+langchain_aws
+langchain-community==0.2.12
